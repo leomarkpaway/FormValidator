@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Simple_input_form</string>
+
+    <string name="default_date_format">%1$d/%2$d/%3$d</string>
+    <string name="hint_input_date_of_birth">Date of birth</string>
+    <string name="hint_input_mobile_number">Mobile Number</string>
+    <string name="hint_input_email_address">Email Address</string>
+    <string name="hint_input_full_name">Full name</string>
+    <string name="hint_input_age">Age</string>
+    <string name="hint_input_gender">Gender</string>
+    <string name="button_submit">Submit</string>
+    <string name="helper_required">required</string>
+    <string name="helper_full_name">Text only and characters like comma or period</string>
+    <string name="helper_email_address">Must be a validated in right email format</string>
+    <string name="helper_mobile_number">Must be validated in the right PH mobile number format, e.g.</string>
+    <string name="helper_age">age must be greater than or equal to 18 years old</string>
+
+</resources>
